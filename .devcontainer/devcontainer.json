@@ -1,0 +1,1 @@
+{\n  "name": "C++ Development",\n  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu-22.04",\n  "features": {\n    "ghcr.io/devcontainers/features/github-cli:1": {}\n  },\n  "customizations": {\n    "vscode": {\n      "extensions": [\n        "ms-vscode.cpptools",\n        "ms-vscode.cpptools-extension-pack"\n      ]\n    }\n  },\n  "remoteUser": "vscode"\n}
